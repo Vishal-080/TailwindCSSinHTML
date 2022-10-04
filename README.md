@@ -1,2 +1,2 @@
-# googleMapsWithJs
-Implemented Google Maps using Javascript
+# Tailwind css in HTML
+Implemented Tailwind css in HTML
